@@ -58,9 +58,25 @@ No mundo do PD, você não constrói primeiro — você testa primeiro. Algumas 
 
 ## Monetização
 
+### Relação de monetização
+A estrutura de monetização do VagaLivre é baseada em três pilares, com relações claras entre os stakeholders e as receitas:
+
+| Modelo de receita | Público-alvo | Taxa aplicada | Relação com o serviço |
+|-------------------|--------------|---------------|------------------------|
+| Taxa de serviço por viagem | Passageiros e motoristas | 5% sobre o valor da viagem para cada parte | Desconto progressivo para usuários frequentes (acima de 10 viagens/mês: taxa reduzida para 3%) |
+| Assinatura premium | Usuários frequentes | R$ 19,90/mês | Benefícios: isenção de taxa de serviço, prioridade em busca de caronas, suporte prioritário |
+| Anúncios segmentados | Empresas parceiras | Valor por impressão/click | Anúncios relacionados a serviços de viagem, restaurantes em rotas, produtos para motoristas — não intrusivos, somente na tela de busca de rotas |
+| Parcerias com estabelecimentos | Comércios em áreas de passagem | Comissão de 10% por venda gerada | Descontos exclusivos para usuários do VagaLivre em postos de gasolina, lanchonetes e hotéis parceiros |
+
 Ideias iniciais passam por taxa de uso ou anúncios. Mas existe uma regra de ouro aqui:
 
 > Se ninguém usa, não importa como você cobra.
+
+### Fluxo de pagamento
+1. Passageiro paga o valor total da viagem via plataforma
+2. O sistema retém a taxa de serviço aplicável
+3. O restante do valor é transferido para o motorista em até 48 horas após a conclusão da viagem
+4. Receitas de anúncios e parcerias são 100% revertidas para manutenção e melhoria do serviço nos primeiros 12 meses de operação
 
 ---
 
